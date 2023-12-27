@@ -11,7 +11,7 @@ $ qemu-system-riscv64 --version
 
 -----------------------------qemu package search------------------------------------------------
 $ sudo apt search qemu
-# after this command if the result does not contain qemu-system-riscv64 then execute the building instructions otherwise skip to setup line 95
+# after this command if the result does not contain qemu-system-riscv64 then execute the building instructions otherwise skip to setup line 5
 ----------------------------building instructions-----------------------------------------
 #create a working directory
 $ mkdir ~/work
